@@ -3,3 +3,4 @@
 - I am a bachelor's student Mechanical Engineering at the Delft University of Technology.
 - I also work at Dynamic Ear company, and sometimes code there when the job calls for it.
 - I mostly enjoy spending 10 hours automating a process that could've been done by hand in 5!
+- My profile picture is one of the hardest paintings ever created, thank you for not being alive in a time of copyright, mr. van Gogh.
